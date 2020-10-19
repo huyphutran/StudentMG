@@ -1,0 +1,2 @@
+# StudentMG
+Studentmagnament
